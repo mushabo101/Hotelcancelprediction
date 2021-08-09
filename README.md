@@ -9,7 +9,7 @@ rantai yang terlibat dari bisnis perhotelan seperti makanan, ketersediaan consum
 
 **Output dari machine** learning ini yaitu memperdiksi apakah end user akan membatalkan booking atau tidak
 
-**Machine learning** yang digunakan dalam kasus ini adalah binary classification : Liear regression, Knn, dan RandomForrest, dikarenakan hanya ada dua opsi yaitu mencancel atau tidak, serta tingkatan model machine learning dari yang paling sederhana 
+**Machine learning** yang digunakan dalam kasus ini adalah binary classification : Logistic regression, Knn, dan RandomForrest, dikarenakan hanya ada dua opsi yaitu mencancel atau tidak, serta tingkatan model machine learning dari yang paling sederhana 
 
 **Perfomnce meassure** yang digunakan pada kasus machine learning ini adalah f1 score, recall, dan precission
 
